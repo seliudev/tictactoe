@@ -1,2 +1,2 @@
 # tictactoe
-without Minimax Algorithm (AI Opponent)
+with and without Minimax Algorithm (AI Opponent)
